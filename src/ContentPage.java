@@ -5,4 +5,6 @@ public class ContentPage {
     //facebook
     //instagram
             //twitter
+    //youtube
+    //email
 }
