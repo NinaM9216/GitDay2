@@ -15,4 +15,10 @@ public class webapp {
                 //Twitter
         //email
     }
+
+    public static class Cart {
+        //shopping cart
+        //total
+        //promo code
+    }
 }
