@@ -5,4 +5,14 @@ public class webapp {
     //logo
     //add more things
     //footer
+
+    public static class ContentPage {
+
+
+        //public page
+        //facebook
+        //instagram
+                //Twitter
+        //email
+    }
 }
